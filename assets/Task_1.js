@@ -9,7 +9,7 @@ Level 1
 
 let a = 10;
 let b = 20;
-let c = 20-10;
+let c = a - b;
 console.log (c); 
 let d = c;
 console.log (d); 
